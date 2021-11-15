@@ -49,7 +49,7 @@ class BraceExpandTests(TestCase):
             ],
         ),
         (
-            # Nested ranges and coma-separated lists.
+            # Nested ranges and comma-separated lists.
             "python{2.{5..7},3.{6,8,9}}",
             [
                 "python2.5",

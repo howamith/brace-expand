@@ -13,7 +13,7 @@ expression.
 ```python
 >>> from brace_expand import brace_expand
 
-# Coma separation.
+# Comma separation.
 >>> brace_expand("1,2,3,4")
 ["1", "2", "3", "4"]
 
