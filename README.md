@@ -1,5 +1,7 @@
 # Bash-like brace expansion for Python #
 
+![Tests](https://github.com/howamith/brace-expand/actions/workflows/tests.yml/badge.svg)
+
 A Python implementation of
 [Bash's Brace Expansion](https://man7.org/linux/man-pages/man1/bash.1.html#EXPANSION).
 
