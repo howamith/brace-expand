@@ -1,6 +1,7 @@
 # Bash-like brace expansion for Python #
 
 ![Tests](https://github.com/howamith/brace-expand/actions/workflows/tests.yml/badge.svg)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 A Python implementation of
 [Bash's Brace Expansion](https://man7.org/linux/man-pages/man1/bash.1.html#EXPANSION).
